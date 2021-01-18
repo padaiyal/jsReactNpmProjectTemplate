@@ -20,6 +20,7 @@
 [![Issues][issues-shield]][issues-url]
 [![Apache License][license-shield]][license-url] <br>
 ![Npm CI Build Test](https://github.com/padaiyal/jsReactNpmProjectTemplate/workflows/npm%20ci%20build%20test/badge.svg)
+![Npm CI Coverage](https://github.com/padaiyal/jsReactNpmProjectTemplate/workflows/npm%20ci%20coverage/badge.svg)
 </div>
 
 <!--
